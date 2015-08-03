@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\And Gate
+Eand_gate
+Z1 w1378410482
+Z2 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dF:\And Gate
+Z5 8F:/And Gate/AND_gate.vhd
+Z6 FF:/And Gate/AND_gate.vhd
+l0
+L4
+VJ`Pi^gN[?JbkPLF8B`kZZ0
+Z7 OV;C;10.0d;49
+32
+Z8 !s108 1378410761.627000
+Z9 !s90 -reportprogress|300|-work|And_Gate|F:/And Gate/AND_gate.vhd|
+Z10 !s107 F:/And Gate/AND_gate.vhd|
+Z11 o-work And_Gate -O0
+Z12 tExplicit 1
+!s100 IF[Jn2DK>XNmobQ0UUY9]3
+Abehav
+R2
+R3
+Z13 DEx4 work 8 and_gate 0 22 J`Pi^gN[?JbkPLF8B`kZZ0
+l12
+L11
+V;MHm3;mcPT3^:CO@jd66f3
+!s100 kT7GZ2kad`S0ndL3C>@g`3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+Eand_gate_tb
+Z14 w1378410742
+R2
+R3
+R4
+Z15 8F:/And Gate/AND_gate_TB.vhd
+Z16 FF:/And Gate/AND_gate_TB.vhd
+l0
+L4
+V2G0iO1JU`B8[^3mXJ5jTQ0
+!s100 2EIZWmMzfoSga;a:EaG<I2
+R7
+32
+Z17 !s108 1378410764.201000
+Z18 !s90 -reportprogress|300|-work|And_Gate|F:/And Gate/AND_gate_TB.vhd|
+Z19 !s107 F:/And Gate/AND_gate_TB.vhd|
+R11
+R12
+Atb
+R2
+R3
+Z20 DEx4 work 11 and_gate_tb 0 22 2G0iO1JU`B8[^3mXJ5jTQ0
+l18
+L7
+VNMS<a4Lc_Sk9<[imX_VIk1
+!s100 F?cQONH0WY=NiAR7ge0RR1
+R7
+32
+R17
+R18
+R19
+R11
+R12
+Ccfg_tb
+aTB
+eAND_gate_TB
+R13
+DAx4 work 11 and_gate_tb 2 tb 22 NMS<a4Lc_Sk9<[imX_VIk1
+R2
+R3
+R20
+R14
+R4
+R15
+R16
+l0
+L51
+VG>Pj6=DGA79TUC5@>cMJO2
+!s100 eKm^=2`hNzg9I^3OKHU^02
+R7
+32
+R17
+R18
+R19
+R11
+R12

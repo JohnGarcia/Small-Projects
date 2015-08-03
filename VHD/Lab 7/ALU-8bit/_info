@@ -1,0 +1,457 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\John\Desktop\113 Files\Lab 7
+Ealu_8bit
+Z1 w1382643269
+Z2 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\John\Desktop\113 Files\Lab 7
+Z5 8C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit.vhd
+Z6 FC:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit.vhd
+l0
+L4
+VY9@<Ui7X1Pmo=9jAko5:b2
+Z7 OV;C;10.0d;49
+32
+Z8 !s108 1382643286.005000
+Z9 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit.vhd|
+Z10 !s107 C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit.vhd|
+Z11 o-work ALU-8bit -O0
+Z12 tExplicit 1
+!s100 RLZ4i]H=?>TTk;Hkel;8I3
+Astruct
+R2
+R3
+Z13 DEx4 work 8 alu_8bit 0 22 Y9@<Ui7X1Pmo=9jAko5:b2
+l43
+L15
+VYbLIV_lGLCXz3=`3^J[491
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 39C;P1Gf]c9?kB1UW^?_<0
+Ealu_8bit_tb
+Z14 w1382644625
+R2
+R3
+R4
+Z15 8C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit_TB.vhd
+Z16 FC:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit_TB.vhd
+l0
+L4
+V`8lf7d[in7Y=DMfZ0;oB23
+!s100 :LAHKf0H<bG:76kWb@:k`2
+R7
+32
+Z17 !s108 1382644637.015000
+Z18 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit_TB.vhd|
+Z19 !s107 C:/Users/John/Desktop/113 Files/Lab 7/ALU_8bit_TB.vhd|
+R11
+R12
+Atb
+R2
+R3
+Z20 DEx4 work 11 alu_8bit_tb 0 22 `8lf7d[in7Y=DMfZ0;oB23
+l24
+L7
+VNOcRPL4lzW:UE3;_UaNmM0
+!s100 K@l=HUifAXk<?YL_D4ghF0
+R7
+32
+R17
+R18
+R19
+R11
+R12
+Eand_gate
+Z21 w1378410904
+R2
+R3
+R4
+Z22 8C:/Users/John/Desktop/113 Files/Lab 7/AND_gate.vhd
+Z23 FC:/Users/John/Desktop/113 Files/Lab 7/AND_gate.vhd
+l0
+L4
+V9mL?Y7AGBnc2koI4d6;`?3
+R7
+32
+Z24 !s108 1382642124.355000
+Z25 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/AND_gate.vhd|
+Z26 !s107 C:/Users/John/Desktop/113 Files/Lab 7/AND_gate.vhd|
+R11
+R12
+!s100 IF[Jn2DK>XNmobQ0UUY9]3
+Abehav
+R2
+R3
+DEx4 work 8 and_gate 0 22 9mL?Y7AGBnc2koI4d6;`?3
+l12
+L11
+V9CSiHZmJ5z>zBOhG_LfGX1
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 6C@BWK^k=o`6Z^7?^U>=U3
+Ccfg_tb
+aTB
+eALU_8bit_TB
+R13
+DAx4 work 11 alu_8bit_tb 2 tb 22 NOcRPL4lzW:UE3;_UaNmM0
+R2
+R3
+R20
+R14
+R4
+R15
+R16
+l0
+L174
+VG4;2`BHzNn8Yjd^`1Izmg1
+!s100 MHU?NA;;MkF7dF7RNgZ?g1
+R7
+32
+R17
+R18
+R19
+R11
+R12
+Edecoder_2bit
+Z27 w1382039303
+R2
+R3
+R4
+Z28 8C:/Users/John/Desktop/113 Files/Lab 7/2bit_Decoder.vhd
+Z29 FC:/Users/John/Desktop/113 Files/Lab 7/2bit_Decoder.vhd
+l0
+L4
+VRC=Jg?FDkQ<Ng[COP6dXB0
+R7
+32
+Z30 !s108 1382642116.742000
+Z31 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/2bit_Decoder.vhd|
+Z32 !s107 C:/Users/John/Desktop/113 Files/Lab 7/2bit_Decoder.vhd|
+R11
+R12
+!s100 ?Y;3PChUnNlNB;7A?oTS@0
+Astruct
+R2
+R3
+DEx4 work 12 decoder_2bit 0 22 RC=Jg?FDkQ<Ng[COP6dXB0
+l31
+L13
+V`Y:>=UjbSGRNfk=Vj0[6G1
+R7
+32
+R30
+R31
+R32
+R11
+R12
+!s100 OYj=2bc91b[In`B>zY7cO0
+Emux_2x1
+Z33 w1382041777
+R2
+R3
+R4
+Z34 8C:/Users/John/Desktop/113 Files/Lab 7/MUX_2x1.vhd
+Z35 FC:/Users/John/Desktop/113 Files/Lab 7/MUX_2x1.vhd
+l0
+L4
+VmnJ[:NPE7?JblQRE0VEg?0
+R7
+32
+Z36 !s108 1382642127.116000
+Z37 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/MUX_2x1.vhd|
+Z38 !s107 C:/Users/John/Desktop/113 Files/Lab 7/MUX_2x1.vhd|
+R11
+R12
+!s100 K2]3O4THVUB6bFK>H1jnC3
+Astruct
+R2
+R3
+DEx4 work 7 mux_2x1 0 22 mnJ[:NPE7?JblQRE0VEg?0
+l38
+L12
+V4CXJS05Xd106A5<4T]Mh;0
+R7
+32
+R36
+R37
+R38
+R11
+R12
+!s100 c5_RllgkTiRzoTV>X>mKz0
+Emux_4x1
+Z39 w1382039977
+R2
+R3
+R4
+Z40 8C:/Users/John/Desktop/113 Files/Lab 7/MUX_4x1.vhd
+Z41 FC:/Users/John/Desktop/113 Files/Lab 7/MUX_4x1.vhd
+l0
+L4
+VgI17hUaP3hMl3[:<[JeBb3
+R7
+32
+Z42 !s108 1382642129.581000
+Z43 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/MUX_4x1.vhd|
+Z44 !s107 C:/Users/John/Desktop/113 Files/Lab 7/MUX_4x1.vhd|
+R11
+R12
+!s100 WzdV2KUmV_LI0INQTL4J^3
+Astruct
+R2
+R3
+DEx4 work 7 mux_4x1 0 22 gI17hUaP3hMl3[:<[JeBb3
+l46
+L13
+VSQ`_m>;U?C`c9?3Il6S?Z1
+R7
+32
+R42
+R43
+R44
+R11
+R12
+!s100 ]72o^U6XCG?D24>XW@`>P2
+Enot_gate
+Z45 w1379620930
+R2
+R3
+R4
+Z46 8C:/Users/John/Desktop/113 Files/Lab 7/NOT_gate.vhd
+Z47 FC:/Users/John/Desktop/113 Files/Lab 7/NOT_gate.vhd
+l0
+L4
+VYc[EgP1`5=8d;dYnL>25Y2
+R7
+32
+Z48 !s108 1382642132.311000
+Z49 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/NOT_gate.vhd|
+Z50 !s107 C:/Users/John/Desktop/113 Files/Lab 7/NOT_gate.vhd|
+R11
+R12
+!s100 mo?Z;j7ZH?ZY?>YP7aJO72
+Abehav
+R2
+R3
+DEx4 work 8 not_gate 0 22 Yc[EgP1`5=8d;dYnL>25Y2
+l11
+L10
+VT7NjOSA1EcCC6`LSFV81A2
+R7
+32
+R48
+R49
+R50
+R11
+R12
+!s100 VbNEa>LE@X`R<n5AU[Dc<0
+Eof_check
+Z51 w1382042318
+R2
+R3
+R4
+Z52 8C:/Users/John/Desktop/113 Files/Lab 7/OF_checking.vhd
+Z53 FC:/Users/John/Desktop/113 Files/Lab 7/OF_checking.vhd
+l0
+L4
+V7O0oHI_4aSDn`7J1HXjJ`1
+R7
+32
+Z54 !s108 1382642134.947000
+Z55 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/OF_checking.vhd|
+Z56 !s107 C:/Users/John/Desktop/113 Files/Lab 7/OF_checking.vhd|
+R11
+R12
+!s100 7n[ZT@V45A1Qii`>fL<io1
+Astruct
+R2
+R3
+DEx4 work 8 of_check 0 22 7O0oHI_4aSDn`7J1HXjJ`1
+l38
+L12
+VSmA`Kl79IZ3C_OO8<[UUe2
+R7
+32
+R54
+R55
+R56
+R11
+R12
+!s100 ElMDK_O7@3nUWHQNGc;]d0
+Eone_bit_adder
+Z57 w1380227708
+R2
+R3
+R4
+Z58 8C:/Users/John/Desktop/113 Files/Lab 7/1_Bit_Adder.vhd
+Z59 FC:/Users/John/Desktop/113 Files/Lab 7/1_Bit_Adder.vhd
+l0
+L4
+VS6^E6=F^Y[iif9PgK:]Rl3
+R7
+32
+Z60 !s108 1382642114.137000
+Z61 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/1_Bit_Adder.vhd|
+Z62 !s107 C:/Users/John/Desktop/113 Files/Lab 7/1_Bit_Adder.vhd|
+R11
+R12
+!s100 PkEW;0gUB^962VLfh9@Al2
+Astruct
+R2
+R3
+DEx4 work 13 one_bit_adder 0 22 S6^E6=F^Y[iif9PgK:]Rl3
+l40
+L13
+VNMo^[Y:42P6TfEZhW`9?70
+R7
+32
+R60
+R61
+R62
+R11
+R12
+!s100 1dS9VO`zfkK_fX9o^T=Vl2
+Eone_bit_alu_of
+Z63 w1382642393
+R2
+R3
+R4
+Z64 8C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_OF.vhd
+Z65 FC:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_OF.vhd
+l0
+L4
+V4o7mmjB=Dlj4i9hCd7QNW3
+R7
+32
+Z66 !s108 1382642441.810000
+Z67 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_OF.vhd|
+Z68 !s107 C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_OF.vhd|
+R11
+R12
+!s100 jHolDZQ;Hib7j?T^?:DeR3
+Astruct
+R2
+R3
+DEx4 work 14 one_bit_alu_of 0 22 4o7mmjB=Dlj4i9hCd7QNW3
+l78
+L16
+V;g:VEf>4UG>4kG<^mlVcV0
+R7
+32
+R66
+R67
+R68
+R11
+R12
+!s100 6H?cDM2>f>0@O9LBfNOzZ2
+Eone_bit_alu_sub
+Z69 w1382642416
+R2
+R3
+R4
+Z70 8C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_Sub.vhd
+Z71 FC:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_Sub.vhd
+l0
+L4
+V5S<cG8?MSS17A@Pd6h5Pb3
+R7
+32
+Z72 !s108 1382642445.975000
+Z73 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_Sub.vhd|
+Z74 !s107 C:/Users/John/Desktop/113 Files/Lab 7/One_Bit_ALU_Sub.vhd|
+R11
+R12
+!s100 >d<QP5H@GGzJDRVAT:Gl30
+Astruct
+R2
+R3
+DEx4 work 15 one_bit_alu_sub 0 22 5S<cG8?MSS17A@Pd6h5Pb3
+l69
+L15
+VB_Djb<Q148YVDYkWF]XP;1
+R7
+32
+R72
+R73
+R74
+R11
+R12
+!s100 5ET0iC6ZeoTX7eO1U>Ii30
+Eor_gate
+Z75 w1378411360
+R2
+R3
+R4
+Z76 8C:/Users/John/Desktop/113 Files/Lab 7/OR_gate.vhd
+Z77 FC:/Users/John/Desktop/113 Files/Lab 7/OR_gate.vhd
+l0
+L4
+V17L:hh<8:Y50V>VEmcm5V2
+R7
+32
+Z78 !s108 1382642150.001000
+Z79 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/OR_gate.vhd|
+Z80 !s107 C:/Users/John/Desktop/113 Files/Lab 7/OR_gate.vhd|
+R11
+R12
+!s100 4J[NQVgZ9Eigl<>41@`T82
+Abehav
+R2
+R3
+DEx4 work 7 or_gate 0 22 17L:hh<8:Y50V>VEmcm5V2
+l12
+L11
+VhEaoVo^EUSDjVcMLWKbU:0
+R7
+32
+R78
+R79
+R80
+R11
+R12
+!s100 OC8Oj1TYL2_=Vz64^c6X70
+Exor_gate
+Z81 w1380227877
+R2
+R3
+R4
+Z82 8C:/Users/John/Desktop/113 Files/Lab 7/XOR_gate.vhd
+Z83 FC:/Users/John/Desktop/113 Files/Lab 7/XOR_gate.vhd
+l0
+L4
+VAj5;;WTKng>[bjk9Z4XTF2
+R7
+32
+Z84 !s108 1382642152.669000
+Z85 !s90 -reportprogress|300|-work|ALU-8bit|C:/Users/John/Desktop/113 Files/Lab 7/XOR_gate.vhd|
+Z86 !s107 C:/Users/John/Desktop/113 Files/Lab 7/XOR_gate.vhd|
+R11
+R12
+!s100 UYo:FkJOOBNLCMnX:ak<30
+Astruct
+R2
+R3
+DEx4 work 8 xor_gate 0 22 Aj5;;WTKng>[bjk9Z4XTF2
+l38
+L11
+V;X6olXVQ9IBjJkTJ9SBIX0
+R7
+32
+R84
+R85
+R86
+R11
+R12
+!s100 NlEF3Tzh[OD9<3o9cIHE_3

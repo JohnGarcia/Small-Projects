@@ -1,0 +1,160 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Lab3
+Eand_gate
+Z1 w1378410904
+Z2 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dF:\Lab3
+Z5 8F:/Lab3/AND_gate.vhd
+Z6 FF:/Lab3/AND_gate.vhd
+l0
+L4
+Vz<<8eJ[74aznQoNHf]EJV1
+Z7 OV;C;10.0d;49
+32
+Z8 !s108 1379014749.048000
+Z9 !s90 -reportprogress|300|-work|AND_OR|F:/Lab3/AND_gate.vhd|
+Z10 !s107 F:/Lab3/AND_gate.vhd|
+Z11 o-work AND_OR -O0
+Z12 tExplicit 1
+!s100 IF[Jn2DK>XNmobQ0UUY9]3
+Abehav
+R2
+R3
+DEx4 work 8 and_gate 0 22 z<<8eJ[74aznQoNHf]EJV1
+l12
+L11
+VJYSTN2_=zZi;0>EVTa<6<3
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 6C@BWK^k=o`6Z^7?^U>=U3
+Eand_or
+Z13 w1379014792
+R2
+R3
+R4
+Z14 8F:/Lab3/AND_OR.vhd
+Z15 FF:/Lab3/AND_OR.vhd
+l0
+L4
+V_ZIC^:SdPHY_L7[OP[6bU3
+!s100 Q6JaW1KQidFjc9j>DR^?W3
+R7
+32
+Z16 !s108 1379014802.415000
+Z17 !s90 -reportprogress|300|-work|AND_OR|F:/Lab3/AND_OR.vhd|
+Z18 !s107 F:/Lab3/AND_OR.vhd|
+R11
+R12
+Astruct
+R2
+R3
+Z19 DEx4 work 6 and_or 0 22 _ZIC^:SdPHY_L7[OP[6bU3
+l30
+L12
+V:eo?j61Vja4X_ZHRSDL=:1
+!s100 AJY`G>>`>hf_I=BL@gBif2
+R7
+32
+R16
+R17
+R18
+R11
+R12
+Eand_or_tb
+Z20 w1379014682
+R2
+R3
+R4
+Z21 8F:/Lab3/AND_OR_TB.vhd
+Z22 FF:/Lab3/AND_OR_TB.vhd
+l0
+L4
+VZNdIVQFMIBG<ANDSYBSdU2
+R7
+32
+Z23 !s108 1379014761.933000
+Z24 !s90 -reportprogress|300|-work|AND_OR|F:/Lab3/AND_OR_TB.vhd|
+Z25 !s107 F:/Lab3/AND_OR_TB.vhd|
+R11
+R12
+!s100 X4I?B^G4UVW=G8OgNWc[M0
+Atb
+R2
+R3
+Z26 DEx4 work 9 and_or_tb 0 22 ZNdIVQFMIBG<ANDSYBSdU2
+l19
+L7
+Ve;MD8]OVkgE3l@JVTa:4N1
+R7
+32
+R23
+R24
+R25
+R11
+R12
+!s100 olBgzPMGF?4i^?L`R2JXV2
+Ccfg_tb
+aTB
+eAND_OR_TB
+R19
+DAx4 work 9 and_or_tb 2 tb 22 e;MD8]OVkgE3l@JVTa:4N1
+R2
+R3
+R26
+R20
+R4
+R21
+R22
+l0
+L77
+V6:LXN6zjoQ]b44nM`DG5=1
+R7
+32
+R23
+R24
+R25
+R11
+R12
+!s100 ClB^SfY1Y;XHk7LHdC@YS0
+Eor_gate
+Z27 w1378411360
+R2
+R3
+R4
+Z28 8F:/Lab3/OR_gate.vhd
+Z29 FF:/Lab3/OR_gate.vhd
+l0
+L4
+VV_QhOmES0=e4:LHO6Sn`80
+R7
+32
+Z30 !s108 1379014752.995000
+Z31 !s90 -reportprogress|300|-work|AND_OR|F:/Lab3/OR_gate.vhd|
+Z32 !s107 F:/Lab3/OR_gate.vhd|
+R11
+R12
+!s100 4J[NQVgZ9Eigl<>41@`T82
+Abehav
+R2
+R3
+DEx4 work 7 or_gate 0 22 V_QhOmES0=e4:LHO6Sn`80
+l12
+L11
+VI`XcRK;HGR2haz8WIkL0`0
+R7
+32
+R30
+R31
+R32
+R11
+R12
+!s100 OC8Oj1TYL2_=Vz64^c6X70

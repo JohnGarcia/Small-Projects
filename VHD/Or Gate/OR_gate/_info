@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\Or Gate
+Ccfg_tb
+aTB
+eOR_gate_TB
+Z1 DEx4 work 7 or_gate 0 22 cf^^@o`^Om^LV2:z[=5Ki2
+DAx4 work 10 or_gate_tb 2 tb 22 k8;_?gYkbPZ5z;3?4o`bO0
+Z2 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 DEx4 work 10 or_gate_tb 0 22 S`XVKUHCa?7Ta750c@mVZ1
+Z5 w1378411918
+Z6 dF:\Or Gate
+Z7 8F:/Or Gate/OrGateTB.vhd
+Z8 FF:/Or Gate/OrGateTB.vhd
+l0
+L48
+VM79k_;7mWjj`F_TW3MFUS1
+!s100 dTdWPS8mI7Lz@BmTP]@ET0
+Z9 OV;C;10.0d;49
+32
+Z10 !s108 1378413885.567000
+Z11 !s90 -reportprogress|300|-work|OR_gate|F:/Or Gate/OrGateTB.vhd|
+Z12 !s107 F:/Or Gate/OrGateTB.vhd|
+Z13 o-work OR_gate -O0
+Z14 tExplicit 1
+Eor_gate
+Z15 w1378411360
+R2
+R3
+R6
+Z16 8F:/Or Gate/OrGate.vhd
+Z17 FF:/Or Gate/OrGate.vhd
+l0
+L4
+Vcf^^@o`^Om^LV2:z[=5Ki2
+R9
+32
+Z18 !s108 1378413882.603000
+Z19 !s90 -reportprogress|300|-work|OR_gate|F:/Or Gate/OrGate.vhd|
+Z20 !s107 F:/Or Gate/OrGate.vhd|
+R13
+R14
+!s100 4J[NQVgZ9Eigl<>41@`T82
+Abehav
+R2
+R3
+R1
+l12
+L11
+V5lJnV<f5NdY=U_Zg2S3;o2
+!s100 OC8Oj1TYL2_=Vz64^c6X70
+R9
+32
+R18
+R19
+R20
+R13
+R14
+Eor_gate_tb
+R5
+R2
+R3
+R6
+R7
+R8
+l0
+L4
+VS`XVKUHCa?7Ta750c@mVZ1
+!s100 62YhX<ohLg9QZ8doUZfln2
+R9
+32
+R10
+R11
+R12
+R13
+R14
+Atb
+R2
+R3
+R4
+l18
+L7
+Z21 Vk8;_?gYkbPZ5z;3?4o`bO0
+Z22 !s100 7NnHKW]901eZ:SQ=Q^Ycb2
+R9
+32
+R10
+R11
+R12
+R13
+R14
